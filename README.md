@@ -1,4 +1,4 @@
-[![Try with emacs-lsp demo projects](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#ORG=emacs-lsp,PROJECT=demo-projects,PROFILE=vanilla/https://github.com/emacs-lsp/lsp-gitpod)
+[![Try with emacs-lsp demo projects](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://github.com/mhackersu/lsp-gitpod)
 
 # One-click Emacs web IDE (beta)
 ![Gitpod](gitpod.png "Emacs Gitpod in action")
